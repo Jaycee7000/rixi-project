@@ -1,0 +1,34 @@
+/* Nav Bar */
+.navy{
+    background-color: #b9adb7;
+}
+
+/* Title */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title-section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #301430;
+    color: white;
+    /* display: flex; */
+}
+
+.title-section.container{
+    displ}
+
+
+
+/* Project */
+#projects{
+    background-color: #e9ddce;
+}
+
+
+
